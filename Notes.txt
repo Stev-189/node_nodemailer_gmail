@@ -1,0 +1,17 @@
+npm init -y
+//https://cursos.mejorcodigo.net/article/enviar-correo-electronico-con-nodejs-17
+//https://www.youtube.com/watch?v=KjheexBLY4A&t=69s
+//https://www.uv.es/jac/guia/tablaeje.htm
+npm install nodemailer dotenv
+npm i nodemon @babel/core @babel/cli @babel/preset-env @babel/node @babel/plugin-transform-runtime -D
+//vamos a gmail 
+//gestionar tu cuenta de google //enicono tuyo
+//seguridad
+//verificacion en 2 pasos
+//empezar
+//la pass
+//siguiente 
+//completamis datos de telefono
+//nos llegara un codigo de verificacion y lo ingresamos damos activar
+//una vez todo este ok creamos una contraseña de aplicacion en elmisdmo apartado de seguridad
+//una vez la creemos esta sera nuestra contraseña de correo para la app
